@@ -2,7 +2,7 @@
 <x-guest-layout>
     <x-jet-authentication-card>
         <x-slot name="logo">
-            <img class="fit-picture" src="{{ URL::to('/image/MGS2.png') }}">
+            <img class="fit-picture" src="{{ URL::to('/image/mgs2.png') }}">
         </x-slot>
 
         <x-jet-validation-errors class="mb-4" />
