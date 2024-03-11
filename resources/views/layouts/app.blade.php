@@ -38,7 +38,7 @@
 
         body{
             background: url({{ asset('image/Fond2.jpeg') }});
-            background-size : cover;
+            background-size : contain;
         }
         h1{
             text-align: center;
