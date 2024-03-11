@@ -16,7 +16,7 @@
                 <br>
                 <div class="l1">
                     <div class="mlogo"><a href="{{ url('/allegeance/Fox/personnages') }}"><img src="{{ URL::to('/image/Fox.png') }}" width="100px" height="100px"/></a></div>
-                    <div class="mlogo"><a href="{{ url('/allegeance/Xof/personnages') }}"><img src="{{ URL::to('/image/XOF.png') }}" width="100px" height="100px"/></a></div>
+                    <div class="mlogo"><a href="{{ url('/allegeance/Xof/personnages') }}"><img src="{{ URL::to('/image/Xof.png') }}" width="100px" height="100px"/></a></div>
                     <div class="mlogo"><a href="{{ url('/allegeance/Diamond Dogs/personnages') }}"><img src="{{ URL::to('/image/DDogs.png') }}" width="160px" height="160px"/></a></div>
                     <div class="mlogo"><a href="{{ url('/allegeance/FoxHound/personnages') }}"><img src="{{ URL::to('/image/FoxHound.png') }}" width="140px" height="168px"/></a></div>
                     <div class="mlogo"><a href="{{ url('/allegeance/Outer Heaven/personnages') }}"><img src="{{ URL::to('/image/Outer Heaven.png') }}" width="150px" height="150px"/></a></div>
